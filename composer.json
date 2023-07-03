@@ -1,5 +1,5 @@
 {
-    "name": "vatandoost/filemanager",
+    "name": "masgeek/filemanager",
     "description": "Yii2 filemanager",
     "type": "yii2-extension",
     "license": "MIT",
@@ -10,9 +10,9 @@
             "email": "masoudvatandoost1@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
-        "php": ">=7.0.0",
+        "php": ">=8.0.0",
         "yiisoft/yii2": "~2.0.0",
         "nicolab/php-ftp-client": "^2.0",
         "yiisoft/yii2-bootstrap5": "^2.0"
